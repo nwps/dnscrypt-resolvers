@@ -3191,6 +3191,13 @@ https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVQtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
+## nwps
+
+Non-logging DNSCrypt server located in Helsinki, Finland. Blocks ads, trackers and malware. DNSSEC. https://nwps.fi/
+
+IPv4: sdns://AQcAAAAAAAAAEzk1LjIxNi4xMzguMTQxOjg0NDMgQtTCuizdboEkAGEQsYTPYHTlvisl3le3ow-dcEPpvKcXMi5kbnNjcnlwdC1jZXJ0Lm53cHMuZmk
+
+IPv6: sdns://AQcAAAAAAAAAG1syYTAxOjRmOTpjMDEwOjE1Nzo6MV06ODQ0MyBC1MK6LN1ugSQAYRCxhM9gdOW-KyXeV7ejD51wQ-m8pxcyLmRuc2NyeXB0LWNlcnQubndwcy5maQ
 
 ## plan9dns-fl
 
