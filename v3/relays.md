@@ -2360,3 +2360,8 @@ https://www.dnscry.pt
 
 sdns://gRlbMmEwMzo5MGMwOjVmMToyOTAzOjo1Mzld
 
+## nwps.fi
+
+Helsinki, Finland Anonymized DNS relay server provided by https://nwps.fi/
+
+sdns://gRE5NS4yMTcuMTEuNjM6ODQ0Mw
